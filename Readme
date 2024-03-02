@@ -1,9 +1,0 @@
-Secerts 
--- The Credentials of Mongodb , Username and password are added in secerts.
-Configmap
--- We create a Config file where we define the url of mongodb which makes easy when their need to chnage the db url
-Deployments
--- Three are two Deployments one is for mongodb and Other one is for Mongo-Express it Interactive with the Mongodb
-service
--- The Service is basically to Expose the Application to Access it.
- 
